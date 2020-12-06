@@ -22,7 +22,7 @@ const Header = styled.div`
 
 const AppHeader = () => {
    return (
-      <Header as='a'>
+      <Header>
          <h1>Valentin Venzhega</h1>
          <h2>5 записей из них понравилось 0</h2>
       </Header>
